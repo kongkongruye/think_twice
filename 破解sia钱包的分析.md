@@ -11,6 +11,8 @@ sia是一种基于区块链技术的存储共享系统。siacoin则是该系统�
 
 > The Levenshtein distance is the number of letters you need to add, delete, or replace to get from one word to another. For example, “cat” and “car” have a Levenshtein distance of 1 because you can get from “cat” to “car” by replacing the “t” with an “r”. The words “cat” and “scar” have a distance of 2 because you have to replace the “t” and prepend an “s”.
 
+编辑距离就是单词A变成单词B需要经过几步增，删，改操作。比如从cat变成car只需要一步替换操作,把t变成r，cat到car的编辑距离就是1。
+.
 ## entropy-mnemonics 
 
 [传送门](https://github.com/NebulousLabs/entropy-mnemonics)
